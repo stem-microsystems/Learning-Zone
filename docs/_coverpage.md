@@ -1,12 +1,12 @@
 ![logo](assets/logo.png)
 
-# STEM Microsystems Learning Zone
+# Style Dictionary
 
-> You Learn It Here
+> Style once, use everywhere.
 
-**Learning Zone** is a cookbook website that accompanies out GitHub repositories, where we store open-source code for our products. This website is alo ment to serve as a step-by-step guide to learn, assemble, maintain and advance our products.  
+**Style Dictionary** is a build system that allows you to define styles once, in a way for any platform or language to consume. A single place to create and edit your styles, and a single command exports these rules to all the places you need them - iOS, Android, CSS, JS, HTML, sketch files, style documentation, or anything you can think of. It is available as a CLI through npm, but can also be used like any normal node module if you want to extend its functionality.
 
-[GitHub](https://github.com/stem-microsystems)
+[GitHub](https://github.com/amzn/style-dictionary)
 [Get Started](README.md)
 
-![color](#FFF)
+![color](#D9F8F5)
