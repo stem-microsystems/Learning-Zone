@@ -1,8 +1,8 @@
 :root {
-  --theme-color: #6C3D94;
-  --theme-color-light: #F79733;
+  --theme-color: #1FC5BF;
+  --theme-color-light: #99EBE2;
   --theme-color-dark: #00B3AC;
-  --theme-color-secondary: #2D294D;
+  --theme-color-secondary: #6A5096;
   --theme-color-secondary-dark: #3F1C77;
   --theme-color-secondary-light: #C4B2E1;
 
@@ -112,10 +112,10 @@ aside.sidebar {
 
 .sidebar-logo {
   display: block;
-  
+  width: 4rem;
   vertical-align: bottom;
   line-height: 1.6;
-  height: 6rem;
+  height: 4rem;
   margin: 0 auto;
 }
 
@@ -176,6 +176,7 @@ th {
 }
 
 .cover-main img {
+  max-width: 10rem;
   max-height: 10rem;
 }
 
