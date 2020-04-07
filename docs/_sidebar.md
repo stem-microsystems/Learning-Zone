@@ -1,20 +1,19 @@
 - Getting started
   - [Overview](README.md)
   - [Quick Start](quick_start.md)
+  - [Configuration](config.md)
   - [Examples](examples.md)
-  - [Config](config.md)
-  - [Properties](properties.md)
-  - [Package structure](package_structure.md)
-  - [Extending](extending.md)
-
-- Reference
-  - [Architecture](architecture.md)
-  - [Build Process](build_process.md)
-  - [Using the CLI](using_the_cli.md)
-  - [Using the NPM Module](using_the_npm_module.md)
-  - [API](api.md)
-  - [Transforms](transforms.md)
-  - [Transform groups](transform_groups.md)
-  - [Formats](formats.md)
-  - [Templates](templates.md)
-  - [Actions](actions.md)
+  
+- SM-Drone-F450-OP
+  - [Overview](F450_Overview.md)
+  - [Diagram](F450_Diagram.md)
+  - [Parts](F450_Parts.md) 
+  - [Assembly Instructions](F450_Assembly.md)
+  - [Programming](F450_Programming.md)
+  
+- SM-CNC-Router-Controller
+  - [Overview](CNC-Controller_Overview.md)
+  - [Diagram](CNC-Controller_Diagram.md)
+  - [Parts](CNC-Controller_Parts.md) 
+  - [Assembly Instructions](CNC-Controller_Assembly.md)
+  - [Programming](CNC-Controller_Programming.md)
