@@ -1,3 +1,3 @@
-# SM-Drone-F450-OP Diagram
+# SM-CNC-Router-Controller Diagram
 
 *This section is coming soon 
