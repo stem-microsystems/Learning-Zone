@@ -1,4 +1,4 @@
-<img src="assets/logo.png" alt="STEM Microsystems Logo" title="STEM Microsystems Learning Zone" width="250" align="right" />
+<img src="assets/Logo.png" alt="STEM Microsystems Logo" title="STEM Microsystems Learning Zone" width="250" align="right" />
 
 # STEM Microsystems Learning Zone
 > *You Learn It Here.*
